@@ -22,6 +22,10 @@ and boom!! Now you can interact with Cheffy!
 
 
 
-![83022E7E-2C48-4EAE-B3E6-AE0163965F9A_4_5005_c](https://github.com/Abilaashss/Customised-AI-Kitchen/assets/113171348/2db18a87-53e1-435f-91dc-d7d6687f83a0)
+
+
+
+
+https://github.com/Abilaashss/Customised-AI-Kitchen/assets/113171348/0e6c60ff-772d-4d9a-ba06-bd10b191380b
 
 
