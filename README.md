@@ -3,11 +3,6 @@
 Cheffy - Your AI Kitchen Assistant that can answer precisely anything related to cooking, quantity, methodology in the way you just wanted ! 
 
 
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
-```
 #For running the Code, Clone the repository using git clone : 
 
 ```git clone https://github.com/Abilaashss/Customised-AI-Kitchen```
